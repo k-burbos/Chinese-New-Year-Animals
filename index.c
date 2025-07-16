@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Learning
 int main() {
     int birthyear=1929; 
     printf("Please input your birth year from 1900-2025: %d", birthyear); 
